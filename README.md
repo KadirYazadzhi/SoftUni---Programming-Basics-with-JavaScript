@@ -2,6 +2,8 @@
 
 Welcome to the repository for Programming Basics with JavaScript course tasks from SoftUni!
 
+<img src="JavaScript.png">
+
 ## 📖 Introduction
 This repository contains a collection of tasks from the Programming Basics with JavaScript course at SoftUni. The tasks are organized according to the topics and exercises covered in the course. Each task is thoroughly tested, but if you encounter any issues, feel free to reach out.
 
